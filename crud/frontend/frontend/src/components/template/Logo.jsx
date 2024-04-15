@@ -1,10 +1,11 @@
-import './Logo.css';
-import LogoImg from '../../assets/imgs/logo.png';
-import React from 'react';
+import './Logo.css'
+import logo from '../../assets/imgs/logo.png'
+import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default props =>
-    <aside className='logo'>
-        <a href="/" className="logo">
-            <img src={LogoImg} alt="logo" />
-        </a>
+    <aside className="logo">
+        <Link to="/" className="logo">
+            <img src={logo} alt="logo" />
+        </Link>
     </aside>
