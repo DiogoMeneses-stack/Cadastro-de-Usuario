@@ -2,13 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "Arthur Santos",
+      "name": "arthur oliveira",
       "email": "arthuroliveira553@gmail.com"
     },
     {
       "id": 2,
       "name": "Maria Santos",
       "email": "mariasantos553@gmail.com"
+    },
+    {
+      "name": "Frederico",
+      "email": "fredericosilva212@gmail.com",
+      "id": 3
     }
   ]
 }
