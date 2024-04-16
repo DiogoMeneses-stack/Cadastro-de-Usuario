@@ -1,6 +1,8 @@
 # Projeto de Cadastro de Usuários
 
 ---
+![Captura de tela 2024-04-15 225401](https://github.com/DiogoMeneses-stack/Cadastro-de-Usuario/assets/59363552/eaa844e3-3507-4963-8438-293beea09991)
+
 
 Bem-vindo ao meu repositório! Este projeto é um sistema de cadastro de usuários desenvolvido com HTML, CSS, JavaScript e React. Ele oferece uma interface amigável para adicionar, visualizar, editar e excluir informações de usuários.
 
@@ -23,6 +25,7 @@ Este repositório não é apenas uma coleção de códigos, mas sim uma demonstr
 ---
 
 ## Contribuições e Feedback:
+
 
 Sinta-se à vontade para explorar, clonar e contribuir para este projeto. Se tiver algum feedback, sugestões ou dúvidas, estou sempre aberto à colaboração e ao diálogo.
 
